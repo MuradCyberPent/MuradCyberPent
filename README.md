@@ -94,7 +94,7 @@ I'm a **cybersecurity enthusiast** on a mission to understand how systems are bu
 <div align="center">
 
 <!-- Replace [YOUR_TRYHACKME_USERNAME] with your actual TryHackMe username -->
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/muradcyberpent.png)](https://tryhackme.com/p/muradcyberpent)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/muradcyberpent.png?v=2)](https://tryhackme.com/p/muradcyberpent)
 
 </div>
 
