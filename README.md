@@ -36,7 +36,7 @@
 <img align="right" alt="Hacking GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```bash
-┌──(student㉿cyberspace)-[~/about-me]
+┌──(MuradCyberPent㉿Pentester)-[~/about-me]
 └─$ cat profile.txt
 ```
 
@@ -118,7 +118,7 @@ I'm a **cybersecurity enthusiast** on a mission to understand how systems are bu
 ## 🛠️ Skills & Tools
 
 ```bash
-┌──(student㉿cyberspace)-[~/tools]
+┌──(MuradCyberPent㉿Pentester)-[~/tools]
 └─$ ls -la /skills/
 ```
 
@@ -197,7 +197,7 @@ I'm a **cybersecurity enthusiast** on a mission to understand how systems are bu
 ## ⚡ Hacker Corner
 
 ```
-┌──(student㉿cyberspace)-[~/fun]
+┌──(MuradCyberPent㉿Pentester)-[~/fun]
 └─$ fortune | cowsay | lolcat
 ```
 
