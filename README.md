@@ -163,9 +163,9 @@ I'm a **cybersecurity enthusiast** on a mission to understand how systems are bu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuradCyberPent&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MuradCyberPent&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuradCyberPent&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="Top Languages" width="41%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuradCyberPent&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="41%" />
 
 </div>
 
