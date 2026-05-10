@@ -11,23 +11,19 @@
 <!-- ───────────────────────────── MATRIX BANNER ───────────────────────────── -->
 <div align="center">
 
-![Matrix Banner](https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:003300,100:00ff41&height=220&section=header&text=H4CK%20THE%20PLANET&fontSize=52&fontColor=00ff41&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Ethical%20Hacking%20Enthusiast&descAlignY=62&descColor=39ff14&animation=twinkling&stroke=00ff41&strokeWidth=1)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:001100,50:00ff41,100:003300&text=Murad%20Cyber%20Pent&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Cybersecurity%20Student%20%7C%20Aspiring%20Penetration%20Tester&descAlignY=55&descColor=c9d1d9"/>
 
-</div>
+<br/>
 
-<!-- ───────────────────────────── TYPING ANIMATION ────────────────────────── -->
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Aspiring+Penetration+Tester;Linux+%26+Web+Security+Learner;TryHackMe+%7C+CTF+%7C+Bug+Bounty)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&width=600&lines=%24+whoami+%E2%86%92+Student;%24+passion+%E2%86%92+Cybersecurity+Enthusiast;%24+goal+%E2%86%92+Aspiring+Penetration+Tester;%24+os+%E2%86%92+Linux+Learner;%24+studying+%E2%86%92+Ethical+Hacking+Student)](https://git.io/typing-svg)
+<br/>
 
-</div>
-
-<!-- ───────────────────────────── VISITOR BADGE ───────────────────────────── -->
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=MuradCyberPent&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/MuradCyberPent?color=00ff41&labelColor=0d1117&logo=github&logoColor=00ff41&style=for-the-badge&label=FOLLOWERS)](https://github.com/MuradCyberPent)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=MuradCyberPent&style=flat-square&color=00ff41" />
+  
+  <img src="https://img.shields.io/github/followers/MuradCyberPent?style=flat-square&color=00ff41&labelColor=0d1117" />
+</p>
 
 </div>
 
