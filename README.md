@@ -161,14 +161,6 @@ I'm a **cybersecurity enthusiast** on a mission to understand how systems are bu
 
 <!-- Replace [YOUR_GITHUB_USERNAME] in all stat card URLs below -->
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MuradCyberPent&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuradCyberPent&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="41%" />
-
-</div>
-
 <br/>
 
 <div align="center">
