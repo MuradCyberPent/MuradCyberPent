@@ -47,7 +47,7 @@
 ```
 Name      : Md. Mohaiminul Islam
 Role      : Cybersecurity Student & Aspiring Pentester
-Location  : [Dhaka, Bangladesh]
+Location  : Dhaka, Bangladesh
 Focus     : Offensive Security | Web Hacking | CTFs
 Learning  : Penetration Testing Methodologies
 OS        : Kali Linux / Ubuntu
