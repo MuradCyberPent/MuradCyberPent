@@ -33,7 +33,7 @@
 
 <!-- ────────────────────────────── ABOUT ME ───────────────────────────────── -->
 
-<img align="right" alt="Hacking GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Hacking GIF" width="340" height="258" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```bash
 ┌──(MuradCyberPent㉿Pentester)-[~/about-me]
